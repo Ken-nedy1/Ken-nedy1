@@ -33,8 +33,8 @@ This section showcases my use of GitHub for version control, including the creat
 
 In this section, I detail how I set up Continuous Integration and Continuous Deployment (CI/CD) pipelines using GitHub Actions for QA-related tasks.
 
-- [GitHub Actions Workflow](https://github.com/Ken-nedy1/CI-CD/actions)
-- [Documentation on my CI/CD setup](https://github.com/Ken-nedy1/CI-CD/blob/main/CI-CD-Documentation.md)
+- [GitHub Actions Workflow](https://github.com/Ken-nedy1/CI-CD)
+- [Documentation on my CI/CD setup](https://github.com/Ken-nedy1/CI-CD/Documentation)
 
 
 ## Automation Coding Project
