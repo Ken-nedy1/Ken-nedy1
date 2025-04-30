@@ -27,7 +27,7 @@ This section showcases my use of GitHub for version control, including the creat
 - Branches and pull requests demonstrating a typical GitHub workflow.
 - Documentation on how I approach version control.
 
-[View Version Control Details](https://github.com/Ken-nedy1/Version-Control/blob/main/VC-Documentation.md)
+[View Version Control Details](https://github.com/Ken-nedy1/Version-Control)
 
 ## CI/CD Implementation
 
