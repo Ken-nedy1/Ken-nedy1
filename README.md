@@ -20,6 +20,8 @@ In this section, I demonstrate my approach to bug reporting using GitHub’s iss
 
 [Sample Bug Report](https://github.com/Ken-nedy1/Bug-Reporting)
 
+[Sample Bug Report Template](https://github.com/Ken-nedy1/Bug-Reporting-Template)
+
 ## Version Control
 This section showcases my use of GitHub for version control, including the creation and management of branches, pull requests, and merges. You can explore the following:
 - Branches and pull requests demonstrating a typical GitHub workflow.
