@@ -7,7 +7,7 @@ Welcome to my GitHub repository, designed to demonstrate my skills and experienc
 3. [AI-QA](https://github.com/Ken-nedy1/AI-QA)
 4. [CI/CD Implementation](https://github.com/Ken-nedy1/CI-CD)
 5. [Automation Coding Project](https://github.com/Ken-nedy1/Ken-nedy1/tree/main/Automation-Project)
-6. [Docker for QA](https://github.com/Ken-nedy1/Docker)
+6. [Docker for QA](https://github.com/Ken-nedy1/Ken-nedy1/tree/main/Docker)
 7. [Version Control](https://github.com/Ken-nedy1/Version-Control)
 
 ## Resume
