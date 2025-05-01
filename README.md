@@ -48,7 +48,7 @@ This is a practical project where I apply test automation to solve real-world QA
 This is a practical project where I utilize Docker to run Playwright scripts in a containerized environment. Docker ensures that the scripts execute consistently across different systems, which is especially valuable for automated browser testing and CI/CD pipelines.
 
 - [Docker Project Repository](https://github.com/Ken-nedy1/Ken-nedy1/tree/main/Docker)
-- [Docker README](https://github.com/Ken-nedy1/Docker/blob/main/Playwright-Docker-Demo.md)
+- [Docker README](https://github.com/Ken-nedy1/Ken-nedy1/tree/main/Docker)
 
 
 Feel free to explore the repository and review the various sections to get a comprehensive view of my QA engineering skills and practices. If you have any questions or need further information, don’t hesitate to reach out!
