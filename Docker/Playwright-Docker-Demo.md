@@ -27,6 +27,6 @@ docker run -it --rm -v "$(pwd)":/app playwright-example
 The Docker container runs example.js, which is a Playwright script that performs the following actions:
 
  - Launches a Chromium browser.
- - Navigates to a specified URL (https://www.b-n.me).
+ - Navigates to a specified URL (https://github.com/Ken-nedy1).
  - Takes a screenshot and saves it as example.png.
  - Closes the browser.
