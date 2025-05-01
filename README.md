@@ -40,7 +40,7 @@ In this section, I detail how I set up Continuous Integration and Continuous Dep
 
 This is a practical project where I apply test automation to solve real-world QA problems. You can review the code, run the tests, and view the test results and documentation.
 
-- [Automation Project Repository](https://github.com/Ken-nedy1/Automation-Project/Playwright/tests)
+- [Automation Coding Project](https://github.com/Ken-nedy1/Ken-nedy1/tree/main/Automation-Project)
 - [Automation Project README](https://github.com/Ken-nedy1/Automation-Project-Demo.md)
 
 ## Docker
