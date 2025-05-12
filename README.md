@@ -4,11 +4,10 @@ Welcome to my GitHub repository, designed to demonstrate my skills and experienc
 
 1. [Resume](https://github.com/Ken-nedy1/Resume)
 2. [Bug Reporting](https://github.com/Ken-nedy1/Bug-Reporting)
-3. [AI-QA](https://github.com/Ken-nedy1/AI-QA)
-4. [CI/CD Implementation](https://github.com/Ken-nedy1/CI-CD)
-5. [Automation Coding Project](https://github.com/Ken-nedy1/Ken-nedy1/tree/main/Automation-Project)
-6. [Docker for QA](https://github.com/Ken-nedy1/Ken-nedy1/tree/main/Docker)
-7. [Version Control](https://github.com/Ken-nedy1/Version-Control)
+3. [CI/CD Implementation](https://github.com/Ken-nedy1/CI-CD)
+4. [Automation Coding Project](https://github.com/Ken-nedy1/Ken-nedy1/tree/main/Automation-Project)
+5. [Docker for QA](https://github.com/Ken-nedy1/Ken-nedy1/tree/main/Docker)
+6. [Version Control](https://github.com/Ken-nedy1/Version-Control)
 
 ## Resume
 You can find my resume in this repository, providing a detailed overview of my work history, skills, and experience.
